@@ -11,15 +11,24 @@
 - Rock, Paper, Scissors
 - Simon
 - Snake
-- Memory Game
 - Connect Four
-- Card Games
 - Frogger
 - Breakout
 - Scrabble
 - Battleship
 - Space Invaders
 - Tetris
+- Tower Defense
+- Hangman
+- HTML Canvas Point and Click
+### Card Games
+- Uno
+- Memory Game
+### Board Games
+- Chess
+- Checkers
+- Settlers of Catan
+- Monopoly
 
 ## Using 3rd Party APIs
 - Weather
