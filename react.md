@@ -1,9 +1,8 @@
 # React
 [React Docs](https://reactjs.org/docs/getting-started.html)
 
-## Fragments
 
-
+### Fragments
 
 Fragments allow you to group a list of children without adding extra nodes to the DOM.
 ```jsx {highlight=[3-5]}
@@ -25,7 +24,7 @@ return (
 )
 ```
 
-## JSX
+### JSX
 
 Props default to **true** when no value is passed.
 
