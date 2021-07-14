@@ -1,8 +1,10 @@
 # Reference!
 
 - [Project Ideas](project-ideas.md)
-- [Links](links.md)
+- [Checkout These Branches](stuff-to-checkout.md)
 - [Glossary](glossary.md)
+
+---
 
 ## Languages and Technologies
 - [HTML](html.md)
@@ -15,4 +17,7 @@
 
 - [Git](git.md)
 
-## Youtube
+---
+
+## Links
+- [Links](links.md)

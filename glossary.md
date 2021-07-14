@@ -1,7 +1,23 @@
 # Glossary
 
-Compilers
-: A JavaScript compiler takes JavaScript code, transforms it and returns JavaScript code in a different format. The most common use case is to take ES6 syntax and transform it into syntax that older browsers are capable of interpreting. Babel is the compiler most commonly used with React.
+---
 
-Bundlers
-: Bundlers take JavaScript and CSS code written as separate modules (often hundreds of them), and combine them together into a few files better optimized for the browsers. Some bundlers commonly used in React applications include Webpack and Browserify.
+API
+REST
+Library
+Framework
+Buffer
+
+Recursion
+Hash Table
+Hash Function
+Binary Tree
+Linked List
+
+
+---
+
+PureFunction
+: a function that will always return the exact same thing and does not have any side-effects. It does not change or affect any other element outside the component, including its inputs or any global variables in the documents
+
+---
